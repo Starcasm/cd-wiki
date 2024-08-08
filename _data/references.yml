@@ -1,0 +1,52 @@
+# -------------------------------------
+# Placeholders for characters who have not been revealed yet
+# -------------------------------------
+# {reference_id}:
+#   name: {full name}
+#   codename: {twitter_of_author}
+# -------------------------------------
+
+# -------------------------------------
+# Players
+# -------------------------------------
+
+jasper:
+  name: Jasper
+  present: Nixis Fulguroth
+  past: Amnesiac
+
+kelley:
+  name: Kelley
+  present: Sage
+  past: 
+
+fennec:
+  name: Jason
+  present: Twikz
+  past: Cinder
+
+leviathan:
+  name: Jason
+  present: Vellik
+  past: 
+
+yomo:
+  name: Lorenzo
+  present: Nok
+  past: 
+
+carlos:
+  name: Carlos
+  present: K
+  past: Conyador
+
+# -------------------------------------
+# Characters
+# -------------------------------------
+sweiss:
+  name: Weiss Sylmora
+  codename: Powerful Artificer
+
+hweiss:
+  name: Weiss Hallowbrand
+  codename: Powerful Lich
